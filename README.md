@@ -13,7 +13,7 @@
 - Once deployed make sure to setup any third party OAuth you want such as Github `YOUR Authorizer URL/dashboard/oauth-setting` or you can use standard auth with Emails and Passwords.
 
 - On the same page as your OAuth config copy your `Client Id` past it in `root.tsx` where it says `YOUR AUTHORIZER CLIENT ID` you will also need to add your Authorizer URL where it says `YOUR AUTHORIZER URL`
-![Screenshot of root.tsx](https://imgur.com/a/wan64nC "a title")
+![Screenshot of root.tsx](public/assets/roots-tsx.png)
 
 ---
 
